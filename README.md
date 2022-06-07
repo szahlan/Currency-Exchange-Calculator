@@ -14,7 +14,7 @@ By **Sana Zahlan**
 This application converts US dollars into 5 different currencies, using a currency exchange API.
 
 ## Setup & installation
-1.To obtain an API key, navigate to the [Exchange Rate API Page](https://www.exchangerate-api.com), click on "Plans" in the navbar, select the "Free" plan, enter your email and create a password and your API key will be automatically generated. 
+1. To obtain an API key, navigate to the [Exchange Rate API Page](https://www.exchangerate-api.com), click on "Plans" in the navbar, select the "Free" plan, enter your email and create a password and your API key will be automatically generated. 
 
 2. Clone the repository to your computer.
 
